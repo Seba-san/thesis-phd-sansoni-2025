@@ -40,6 +40,21 @@ This repository contains all the materials related to the PhD thesis. The main c
 *   **`/presentation`**: Slides used for the oral defense.
 *   **`/data`**: Datasets used in the experiments. *(Note: Please check the Google Drive link for larger datasets).*
 
+
+---
+
+## Code Implementation: `treeSLAM` Repository
+
+This repository contains the manuscript and supporting documents for the PhD thesis. The source code for the 3D SLAM system developed for agricultural environments and used in the experimental validation (Chapter 4) is located in its own dedicated repository:
+
+➡️ **[github.com/Seba-san/treeSLAM](https://github.com/Seba-san/treeSLAM)**
+
+The `treeSLAM` repository includes the implementation of the modules for:
+*   Ground plane estimation.
+*   Crop row detection.
+*   Longitudinal position estimation using artificial landmarks.
+*   Final 6DOF pose estimation with uncertainty.
+
 ---
 
 ## Publications
